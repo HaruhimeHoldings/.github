@@ -4,5 +4,5 @@
     - <a href="https://github.com/PivotPointSocial">@PivotPointSocial</a>
     - <a href="https://github.com/NitrousSL">@NitrousSL</a>
     - <a href="https://github.com/YoshiREST">@YoshiREST</a>
-    - <a href="https://github.com/roxiprin">@Roxiprin</a>
+    - <a href="https://github.com/roxiprin">@roxiprin</a>
 </p>
