@@ -1,0 +1,7 @@
+{
+  "programmingLanguages" : ["TypeScript", "Python", "C++"],
+  "frameworks" : ["Hyper-Express", "Express", "Fastify", "Flask", "ReactJS", "NextJS"],
+  "databases" : ["MongoDB", "MySQL"],
+  "tools" : ["Github"],
+  "cloudServices" : ["Cloudflare", "AWS"]
+}
