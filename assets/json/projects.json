@@ -1,0 +1,10 @@
+{
+  [
+    "description" : "Open source OSINT tool",
+    "projectLink" : "https://nitrous-oxi.de",
+    "imgSrc" : "",
+    "tech": ["TypeScript", "Python"],
+    "title": "NitrousOxide",
+    "code": "https://github.com/nitrous-oxi-de"
+  ]
+}
