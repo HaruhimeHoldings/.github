@@ -1,5 +1,6 @@
 {
   [
+    "modalContent" : "<p>written in typescript using fastify</p>",
     "description" : "Open source OSINT tool",
     "projectLink" : "https://nitrous-oxi.de",
     "imgSrc" : "",
