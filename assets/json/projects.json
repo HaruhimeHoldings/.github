@@ -1,11 +1,11 @@
-{
-  [
-    "modalContent" : "<p>written in typescript using fastify</p>",
-    "description" : "Open source OSINT tool",
-    "projectLink" : "https://nitrous-oxi.de",
-    "imgSrc" : "",
+[
+  {
+    "modalContent": "<p>written in typescript using fastify</p>",
+    "description": "Open source OSINT tool",
+    "projectLink": "https://nitrous-oxi.de",
+    "imgSrc": "",
     "tech": ["TypeScript", "Python"],
     "title": "NitrousOxide",
     "code": "https://github.com/nitrous-oxi-de"
-  ]
-}
+  }
+]
