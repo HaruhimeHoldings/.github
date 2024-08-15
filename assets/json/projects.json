@@ -1,10 +1,10 @@
 [
   {
-    "modalContent": "Written in TypeScript using Fastify & NextJS, Nitrous is a research project demonstrating basic open-source intelligence (OSINT) via HTTP requests sent to public APIs.",
+    "modalContent": "Written in TypeScript using Fastify & NextJS, NitrousOxide is a research project demonstrating basic open-source intelligence (OSINT) via HTTP requests sent to public APIs.",
     "description": "OSINT Investigation Suite",
     "projectLink": "https://nitrous-oxi.de",
     "imgSrc": "https://avatars.githubusercontent.com/u/175683895?s=400&u=3737685915c7731f60273869383a594cd46bf515&v=4",
-    "tech": ["TypeScript", "Python"],
+    "tech": ["TypeScript"],
     "title": "NitrousOxide",
     "code": "https://github.com/nitrous-oxi-de"
   }
