@@ -1,4 +1,4 @@
 {
-  "languages": ["JavaScript", "TypeScript", "Python", "Java", "Kotlin", "PHP", "C++"],
-  "tools": ["Git", "Github", "MongoDB", "MySQL", "Cloudflare", "AWS"]
+  "languages" : ["JavaScript", "TypeScript", "Python", "Java", "Kotlin", "PHP", "C++"],
+  "tools" : ["Git", "Github", "MongoDB", "MySQL", "Cloudflare", "AWS"]
 }
