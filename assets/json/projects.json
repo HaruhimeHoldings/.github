@@ -1,20 +1,20 @@
 [
   {
-    "modalContent": "Developed with TypeScript, Fastify, and Next.js, NitrousOxide is a research project showcasing the fundamentals of open-source intelligence (OSINT) through HTTP requests to public APIs.",
+    "title": "NitrousOxide",
     "description": "Comprehensive OSINT Investigation Suite",
+    "modalContent": "Developed with TypeScript, Fastify, and Next.js, NitrousOxide is a research project focused on the fundamentals of open-source intelligence (OSINT) through HTTP requests to public APIs.",
     "projectLink": "https://nitrous-oxi.de",
     "imgSrc": "https://avatars.githubusercontent.com/u/175683895?s=400&u=3737685915c7731f60273869383a594cd46bf515&v=4",
-    "tech": ["TypeScript"],
-    "title": "NitrousOxide",
+    "tech": ["TypeScript", "Fastify", "Next.js"],
     "code": "https://github.com/nitrous-oxi-de"
   },
   {
-    "modalContent": "A full-stack solution for authentication and authorization, built with Fastify, Next.js, and MongoDB, powering a seamless non-KYC crypto-to-fiat exchange platform.",
+    "title": "VOLT",
     "description": "Effortless non-KYC Crypto-to-Fiat Exchange",
+    "modalContent": "A full-stack solution for authentication and authorization, built with Fastify, Next.js, and MongoDB, powering a seamless non-KYC crypto-to-fiat exchange platform.",
     "projectLink": "https://volt.cc",
     "imgSrc": "https://avatars.githubusercontent.com/u/178184452?s=200&v=4",
-    "tech": ["TypeScript"],
-    "title": "VOLT",
+    "tech": ["TypeScript", "Fastify", "Next.js", "MongoDB"],
     "code": "https://github.com/volt-cc"
   }
 ]
