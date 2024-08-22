@@ -1,2 +1,2 @@
-https://haruhime.holdings/
-@nitrous-oxi-de
+https://haruhime.holdings/ <br>
+[@nitrous-oxi-de](https://github.com/nitrous-oxi-de)
