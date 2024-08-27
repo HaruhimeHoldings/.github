@@ -9,7 +9,7 @@
   },
   {
     "title": "VOLT",
-    "description": "A full-stack solution for authentication and authorization, built with Fastify, Next.js, and MongoDB, powering a seamless non-KYC crypto-to-fiat exchange platform.",
+    "description": "A full-stack solution for authentication and authorization, built with Fastify, Next.js, and MongoDB, powering a seamless non-KYC crypto card platform.",
     "projectLink": "https://volt.cc",
     "imgSrc": "https://avatars.githubusercontent.com/u/178184452?s=200&v=4",
     "tech": ["TypeScript", "Fastify", "Next.js", "MongoDB"],
