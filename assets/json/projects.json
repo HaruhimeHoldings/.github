@@ -3,7 +3,7 @@
     "title": "NITROUS",
     "description": "Developed with TypeScript, Fastify, and Next.js, NITROUS is a research project focused on the fundamentals of open-source intelligence (OSINT) through HTTP requests to public APIs.",
     "projectLink": "https://nitrous-oxi.de",
-    "imgSrc": "https://avatars.githubusercontent.com/u/175683895?s=400&u=3737685915c7731f60273869383a594cd46bf515&v=4",
+    "imgSrc": "https://avatars.githubusercontent.com/u/175683895?s=256&u=3737685915c7731f60273869383a594cd46bf515&v=4",
     "tech": ["TypeScript", "Fastify", "Next.js"],
     "code": "https://github.com/nitrous-oxi-de"
   },
@@ -11,7 +11,7 @@
     "title": "VOLT",
     "description": "A full-stack solution for authentication and authorization, built with Fastify, Next.js, and MongoDB, powering a seamless non-KYC crypto card platform.",
     "projectLink": "https://volt.cc",
-    "imgSrc": "https://avatars.githubusercontent.com/u/178184452?s=400&v=4",
+    "imgSrc": "https://avatars.githubusercontent.com/u/178184452?s=256&v=4",
     "tech": ["TypeScript", "Fastify", "Next.js", "MongoDB"],
     "code": "https://github.com/volt-cc"
   },
@@ -19,7 +19,7 @@
     "title": "HIVE",
     "description": "Upcoming project: HIVE is poised to become the world's leading bio-link platform, trusted by thousands of creators worldwide. It will provide a powerful suite of tools for building personal brands or businesses. The backend and frontend integrations of HIVE are being developed using TypeScript, Fastify, Next.js, and MongoDB.",
     "projectLink": "https://hive.to",
-    "imgSrc": "https://avatars.githubusercontent.com/u/179654373?s=400&v=4",
+    "imgSrc": "https://avatars.githubusercontent.com/u/179654373?s=256&v=4",
     "tech": ["TypeScript", "Fastify", "Next.js", "MongoDB"],
     "code": "https://github.com/hive-to"
   }
