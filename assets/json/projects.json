@@ -17,7 +17,7 @@
   },
   {
     "title": "HIVE",
-    "description": "Upcoming project: HIVE is poised to become the world's leading bio-link platform, trusted by thousands of creators worldwide. It will provide a powerful suite of tools for building personal brands or businesses. The backend and frontend integrations of HIVE are being developed using TypeScript, Fastify, Next.js, and MongoDB.",
+    "description": "Upcoming project: HIVE is a bio-link platform where I’m developing the backend and integrating it with the frontend, using TypeScript, Fastify, Next.js, and MongoDB.",
     "projectLink": "https://hive.to",
     "imgSrc": "https://avatars.githubusercontent.com/u/179654373?s=256&v=4",
     "tech": ["TypeScript", "Fastify", "Next.js", "MongoDB"],
