@@ -1,4 +1,4 @@
 {
-  "languages" : ["TypeScript"],
-  "tools": ["Docker"],
+  "languages": ["TypeScript"],
+  "tools": ["Docker"]
 }
